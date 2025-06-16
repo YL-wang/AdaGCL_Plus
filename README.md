@@ -1,5 +1,9 @@
 # AdaGCL+
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/UB-GOLD/UB-GOLD/main/Image/intro.jpg" width="900px"/>
+</div>
+
 ## Experiments
 
 ### Requirements
@@ -25,8 +29,17 @@ GraphSAGE <br>
 ``python ns_graph.py --epochs <epochs> --par <mu> --rate <rate> --limt <delta>``
 
 
-AdaGCL+ is a modification of the following article:
+## Citation
+If you find our repository useful for your research, please consider citing our paper:
 ```
+@article{wang2025adagcl+,
+  title={AdaGCL+: An Adaptive Subgraph Contrastive Learning Towards Tackling Topological Bias},
+  author={Wang, Yili and Liu, Yaohua and Liu, Ninghao and Miao, Rui and Wang, Ying and Wang, Xin},
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  year={2025},
+  publisher={IEEE}
+}
+
 @inproceedings{wang2022adagcl,
 title={AdaGCL: Adaptive Subgraph Contrastive Learning to Generalize Large-scale Graph Training},
 author={Wang, Yili and Zhou, Kaixiong and Miao, Rui and Liu, Ninghao and Wang, Xin},
