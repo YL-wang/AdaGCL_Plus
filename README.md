@@ -1,7 +1,7 @@
 # AdaGCL+
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/UB-GOLD/UB-GOLD/main/Image/intro.jpg" width="900px"/>
+  <img src="https://github.com/YL-wang/AdaGCL_Plus/blob/main/AdaGCL%2B.png" width="900px"/>
 </div>
 
 ## Experiments
